@@ -16,7 +16,7 @@ Review the generated story and make prompt adjustments if needed.
 ### STEP-5: 
 Compile the final story in a storybook format.
 ## PROMPT:
-Create a children’s storybook for ages 5–7 titled 'Pip’s Nighttime Secret.' The main character is Pip, a little bat who is afraid of the dark. Unlike other bats, Pip loves the daytime and the sunbeams in his cozy cave.
+Create a children’s storybook for ages 5–7 titled benny's first flight. The main character is Pip, a little bat who is afraid of the dark. Unlike other bats, Pip loves the daytime and the sunbeams in his cozy cave.
 ## OUTPUT:
 <img width="1024" height="1536" alt="intro" src="https://github.com/user-attachments/assets/a84ee26b-b75a-4e0d-be96-109f28a38184" />
 <img width="1536" height="1024" alt="Create an image with" src="https://github.com/user-attachments/assets/74edd922-4776-4b30-8ace-b449c9ab40fe" />
@@ -32,4 +32,4 @@ Create a children’s storybook for ages 5–7 titled 'Pip’s Nighttime Secret.
 
 
 ## RESULT :
-A story titled “Pip’s Nighttime Secret” was generated, about a bat afraid of the dark who embarks on an adventure to find the “lullaby of light.”
+A story titled “benny's first flight” was generated, about a bat afraid of the dark who embarks on an adventure to find the “lullaby of light.”
